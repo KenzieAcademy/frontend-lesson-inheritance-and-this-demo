@@ -1,0 +1,17 @@
+body, main {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: slategrey;
+}
+
+main {
+  border: 6px dashed whitesmoke;
+  height: 50vh;
+  width: 50vw;
+}
